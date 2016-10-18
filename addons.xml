@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addons>
+<<<<<<< HEAD
 <addon id="plugin.video.multidown"
        name="MultiDown"
        version="1.0.2"
@@ -28,6 +29,8 @@
   </extension>
 </addon>
 
+=======
+>>>>>>> 79d0cc4590a8b03832d5587880f698a2484a6584
 <addon id="repository.MultiDownRepo" name="MultiDown Repo" version="1.0.0" provider-name="MultiDown">
 	<extension point="xbmc.addon.repository">
 		<info compressed="false">https://raw.githubusercontent.com/MultiDown/MultiDownRepo/master/addons.xml</info>
